@@ -5,6 +5,8 @@
 
 Projet réalisé par : [Leopold Rombaut](https://github.com/Loxed), [Victor Ratti](https://github.com/victor-ratti), [Tristan Querton](https://github.com/tristanqtn), Matia Cilly
 
+Consulter le [rapport final](https://loxed.github.io/projects/french/PROJET_VHDL.pdf)
+
 Professeur : Mr Chollet, Mr Schneider
 
 Etablissement : ECE Paris - Lyon
@@ -21,4 +23,3 @@ Sources :
 - Datasheet du 74LS283 : https://mil.ufl.edu/4712/docs/sn74ls283rev5.pdf
 - Guide VHDL : https://www.ics.uci.edu/~jmoorkan/vhdlref/
 - Module de réception IR : https://www.circuitvalley.com/2013/09/nec-protocol-ir-infrared-remote-control.html
-- Lien du rapport final : https://loxed.github.io/projects/french/PROJET_VHDL.pdf
